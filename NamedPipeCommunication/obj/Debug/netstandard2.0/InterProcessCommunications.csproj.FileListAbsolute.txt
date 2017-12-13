@@ -1,9 +1,0 @@
-c:\users\dev\source\repos\NamedPipeCommunication\NamedPipeCommunication\bin\Debug\netstandard2.0\InterProcessCommunications.deps.json
-c:\users\dev\source\repos\NamedPipeCommunication\NamedPipeCommunication\bin\Debug\netstandard2.0\InterProcessCommunications.dll
-c:\users\dev\source\repos\NamedPipeCommunication\NamedPipeCommunication\bin\Debug\netstandard2.0\InterProcessCommunications.pdb
-c:\users\dev\source\repos\NamedPipeCommunication\NamedPipeCommunication\obj\Debug\netstandard2.0\InterProcessCommunications.csproj.CoreCompileInputs.cache
-c:\users\dev\source\repos\NamedPipeCommunication\NamedPipeCommunication\obj\Debug\netstandard2.0\InterProcessCommunications.AssemblyInfoInputs.cache
-c:\users\dev\source\repos\NamedPipeCommunication\NamedPipeCommunication\obj\Debug\netstandard2.0\InterProcessCommunications.AssemblyInfo.cs
-c:\users\dev\source\repos\NamedPipeCommunication\NamedPipeCommunication\obj\Debug\netstandard2.0\InterProcessCommunications.dll
-c:\users\dev\source\repos\NamedPipeCommunication\NamedPipeCommunication\obj\Debug\netstandard2.0\InterProcessCommunications.pdb
-c:\users\dev\source\repos\NamedPipeCommunication\NamedPipeCommunication\obj\Debug\netstandard2.0\InterProcessCommunications.csprojResolveAssemblyReference.cache
